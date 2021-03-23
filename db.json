@@ -1,15 +1,15 @@
 {
   "Licences": 
    [
-     {
+     "a":{
        "TENADO METALL 19":
        [
-         {"Lizenz":
+         "b":{"Lizenz":
           [
-            {"Lizenztyp":"User"},
-            {"Proservice":1},
-            {"Onlineversionsnr":"1.0.0.0"},
-            {"Status":"aktiviert"}
+            "c":{"Lizenztyp":"User"},
+            "d":{"Proservice":1},
+            "e":{"Onlineversionsnr":"1.0.0.0"},
+            "f":{"Status":"aktiviert"}
           ]
          }
        ]
