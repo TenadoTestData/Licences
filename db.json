@@ -1,18 +1,22 @@
 {
-  "Licences": 
- [
-     {
-       "TENADO METALL 19":
-       [
-         {"Lizenz":
-          [
-            {"Lizenztyp":"User"},
-            {"Proservice":1},
-            {"Onlineversionsnr":"1.0.0.0"},
-            {"Status":"aktiviert"}
-          ]
-         }
-       ]
-     }
-   ]
+  "Licences":
+  [
+    {
+      "TENADO METALL 19":
+      [
+        "Lizenz":
+        {"Lizenztyp":"User",
+        "Proservice":1,
+        "Onlineversionsnr":"1.0.0.0",
+        "Status":"aktiviert"
+        },
+        "Lizenz":
+        {"Lizenztyp":"User",
+        "Proservice":1,
+        "Onlineversionsnr":"1.0.0.0",
+        "Status":"aktiviert"
+        }
+      ]
+    }
+  ]
 }
