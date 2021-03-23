@@ -4,18 +4,19 @@
     {
       "TENADO METALL 19":
       [
-        "Lizenz":
-        {"Lizenztyp":"User",
+        {"Lizenz":
+        {
+        "Lizenztyp":"User",
         "Proservice":1,
         "Onlineversionsnr":"1.0.0.0",
         "Status":"aktiviert"
         },
-        "Lizenz":
-        {"Lizenztyp":"User",
+        {
+        "Lizenztyp":"User",
         "Proservice":1,
         "Onlineversionsnr":"1.0.0.0",
         "Status":"aktiviert"
-        }
+        }}
       ]
     }
   ]
