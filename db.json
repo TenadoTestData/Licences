@@ -2,21 +2,39 @@
   "Licences":
   [
     {
-      "TENADO METALL 19":
+      "TENADO CAD 3D":
       [
-        {"Lizenz 1":
+        {"PQA5A-5TIAA-AABV3-3QMMQ":
          {
-           "Lizenztyp":"User",
-           "Proservice":1,
-           "Onlineversionsnr":"1.0.0.0",
+           "Lizenztyp":"Commercial Network (100)",
+           "Proservice":0,
+           "Onlineversionsnr":"16.0.77.0",
            "Status":"aktiviert"
          }
-        },
-        {"Lizenz 2":
+        }
+      ]
+    },
+    {
+      "TENADO PROTECT":
+      [
+        {"Q7ALO-FCTAA-AABL2-BNBOA":
          {
-           "Lizenztyp":"User",
+           "Lizenztyp":"Commercial Network (100)",
            "Proservice":1,
-           "Onlineversionsnr":"1.0.0.0",
+           "Onlineversionsnr":"19.6.8.240",
+           "Status":"aktiviert"
+         }
+        }
+      ]
+    },
+    {
+      "TENADO METALL 2D":
+      [
+        {"ZIGRK-XKVAA-AABQC-JWQOA":
+         {
+           "Lizenztyp":"Commercial Network (100)",
+           "Proservice":0,
+           "Onlineversionsnr":"19.6.8.363",
            "Status":"aktiviert"
          }
         }
