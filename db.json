@@ -1,20 +1,46 @@
 {
-    "Products": 
-      [
+  "Products": [
+    {
+      "ProductId": 9,
+      "Versions": [
         {
-            "Product":
-                [
-                    {"ProductId":9,
-                    {   "Version":19,
-                        "19":
-                            {"reg_name":"TENADOPROTECT19","product_name":"TENADO PROTECT","full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT19\\Products\\TENADOPROTECT19"}
-                    },
-                    {"Version":22,
-                        "22":
-                            {"reg_name": "TENADOPROTECT22","product_name": "TENADO PROTECT","full_path": "SOFTWAREWOW6432NodeTENADOTENADOPROTECT22ProductsTENADOPROTECT22"}
-                    }
+          "VersionNR": 19,
+          "ProductData": {
+            "reg_name": "TENADOPROTECT19",
+            "product_name": "TENADO PROTECT",
+            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT19\\Products\\TENADOPROTECT19"
           }
-                ]
+        },
+        {
+          "VersionNR": 22,
+          "ProductData": {
+            "reg_name": "TENADOPROTECT22",
+            "product_name": "TENADO PROTECT",
+            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOPROTECT22ProductsTENADOPROTECT22"
+          }
         }
       ]
+    },
+    {
+      "ProductId": 10,
+      "Versions": [
+        {
+          "VersionNR": 19,
+          "ProductData": {
+            "reg_name": "TENADOCAD19",
+            "product_name": "TENADO CAD",
+            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOCAD19\\Products\\TENADOCAD19"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "ProductData": {
+            "reg_name": "TENADOCAD22",
+            "product_name": "TENADO CAD",
+            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOCAD22ProductsTENADOCAD22"
+          }
+        }
+      ]
+    }
+  ]
 }
