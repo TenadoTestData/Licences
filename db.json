@@ -1,70 +1,11 @@
 {
-  "Root": {
-    "Products": [
-      {
-        "TENADO CAD 3D": [
-          {
-            "LicenseData": {
-              "Lizenz": "PQA5A-5TIAA-AABV3-3QMMQ",
-              "Lizenztyp": "Network",
-              "Proservice": false,
-              "Onlineversionsnr": "16.0.77.0",
-              "Aktiv": true,
-              "Modules": [
-                {
-                  "TENADO VR": [
-                    {
-                      "ModuleData": {
-                        "Onlineversionsnr": "16.0.77.0"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "TENADO Manager": [
-                    {
-                      "ModuleData": {
-                        "Onlineversionsnr": "16.0.77.0"
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          {
-            "LicenseData": {
-              "Lizenz": "5TIAA-PQA5A-AABV3-3QMMQ",
-              "Lizenztyp": "Network",
-              "Proservice": false,
-              "Onlineversionsnr": "16.0.77.0",
-              "Aktiv": true
-            }
-          }
-        ]
-      },
-      {
-        "TENADO CAD": [
-          {
-            "LicenseData": {
-              "Lizenz": "PQA5A-5TIAA-AABV3-3QMMQ",
-              "Lizenztyp": "Network",
-              "Proservice": false,
-              "Onlineversionsnr": "16.0.77.0",
-              "Aktiv": true
-            }
-          },
-          {
-            "LicenseData": {
-              "Lizenz": "5TIAA-PQA5A-AABV3-3QMMQ",
-              "Lizenztyp": "Network",
-              "Proservice": false,
-              "Onlineversionsnr": "16.0.77.0",
-              "Aktiv": true
-            }
-          }
-        ]
-      }
-    ]
-  }
+    "Products": 
+      [
+        {"9": 
+          [
+            {"19":{"reg_name":"TENADOPROTECT19","product_name":"TENADO PROTECT","full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT19\\Products\\TENADOPROTECT19"},
+            {"22":{"reg_name": "TENADOPROTECT22","product_name": "TENADO PROTECT","full_path": "SOFTWAREWOW6432NodeTENADOTENADOPROTECT22ProductsTENADOPROTECT22"}
+          ]
+        }
+      ]
 }
