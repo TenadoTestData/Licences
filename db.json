@@ -2,16 +2,18 @@
     "Products": 
       [
         {
-            "9": 
+            "Product":
                 [
-                    {
+                    {"ProductId":9,
+                    {   "Version":19,
                         "19":
                             {"reg_name":"TENADOPROTECT19","product_name":"TENADO PROTECT","full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT19\\Products\\TENADOPROTECT19"}
                     },
-                    {
+                    {"Version":22,
                         "22":
                             {"reg_name": "TENADOPROTECT22","product_name": "TENADO PROTECT","full_path": "SOFTWAREWOW6432NodeTENADOTENADOPROTECT22ProductsTENADOPROTECT22"}
                     }
+          }
                 ]
         }
       ]
