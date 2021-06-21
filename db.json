@@ -41,6 +41,132 @@
           }
         }
       ]
+    },
+    {
+      "ProductId": 11,
+      "Versions": [
+        {
+          "VersionNR": 19,
+          "ProductData": {
+            "reg_name": "TENADOMETALL19",
+            "product_name": "TENADO METALL",
+            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL19\\Products\\TENADOMETALL19"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "ProductData": {
+            "reg_name": "TENADOMETALL22",
+            "product_name": "TENADO METALL",
+            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOMETALL22ProductsTENADOMETALL22"
+          }
+        }
+      ]
+    },
+    {
+      "ProductId": 13,
+      "Versions": [
+        {
+          "VersionNR": 19,
+          "ProductData": {
+            "reg_name": "TENADOTRAFFIC19",
+            "product_name": "TENADO TRAFFIC",
+            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOTRAFFIC19\\Products\\TENADOTRAFFIC19"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "ProductData": {
+            "reg_name": "TENADOTRAFFIC22",
+            "product_name": "TENADO TRAFFIC",
+            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOTRAFFIC22ProductsTENADOTRAFFIC22"
+          }
+        }
+      ]
+    },
+    {
+      "ProductId": 14,
+      "Versions": [
+        {
+          "VersionNR": 19,
+          "ProductData": {
+            "reg_name": "TENADOHOLZ19",
+            "product_name": "TENADO HOLZ",
+            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOHOLZ19\\Products\\TENADOHOLZ19"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "ProductData": {
+            "reg_name": "TENADOHOLZ22",
+            "product_name": "TENADO HOLZ",
+            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOHOLZ22ProductsTENADOHOLZ22"
+          }
+        }
+      ]
+    },
+    {
+      "ProductId": 16,
+      "Versions": [
+        {
+          "VersionNR": 19,
+          "ProductData": {
+            "reg_name": "TENADOMETALL19_PL",
+            "product_name": "TENADO METAL",
+            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL19_PL\\Products\\TENADOMETALL19_PL"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "ProductData": {
+            "reg_name": "TENADOMETALL22_PL",
+            "product_name": "TENADO METAL",
+            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOMETALL22_PLProductsTENADOMETALL22_PL"
+          }
+        }
+      ]
+    },
+    {
+      "ProductId": 18,
+      "Versions": [
+        {
+          "VersionNR": 16,
+          "ProductData": {
+            "reg_name": "TENADO CAD 3D 16",
+            "product_name": "TENADO CAD 3D",
+            "full_path": "SOFTWARE\\Top Systems\\TENADO CAD 3D 16\\Ger"
+          }
+        },
+        {
+          "VersionNR": 17,
+          "ProductData": {
+            "reg_name": "TENADO CAD 3D 17",
+            "product_name": "TENADO CAD 3D",
+            "full_path": "SOFTWARETop SystemsTENADO CAD 3D 17Ger"
+          }
+        }
+      ]
+    },
+    {
+      "ProductId": 22,
+      "Versions": [
+        {
+          "VersionNR": 19,
+          "ProductData": {
+            "reg_name": "TENADOSAFETY19",
+            "product_name": "TENADO SAFETY",
+            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOSAFETY19\\Products\\TENADOSAFETY19"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "ProductData": {
+            "reg_name": "TENADOSAFETY22",
+            "product_name": "TENADO SAFETY",
+            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOSAFETY22ProductsTENADOSAFETY22"
+          }
+        }
+      ]
     }
   ]
 }
