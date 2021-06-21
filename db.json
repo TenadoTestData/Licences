@@ -1,5 +1,7 @@
 {
-  "Products": [
+  "Products": 
+  {"ProductRegistryData":
+  [
     {
       "ProductId": 9,
       "VersionData": [
@@ -168,5 +170,5 @@
         }
       ]
     }
-  ]
+  ]}
 }
