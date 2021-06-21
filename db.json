@@ -2,168 +2,168 @@
   "Products": [
     {
       "ProductId": 9,
-      "Versions": [
+      "VersionsData": [
         {
           "VersionNR": 19,
-          "ProductData": {
-            "reg_name": "TENADOPROTECT19",
-            "product_name": "TENADO PROTECT",
-            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT19\\Products\\TENADOPROTECT19"
+          "RegistryKeyData": {
+            "RegName": "TENADOPROTECT19",
+            "ProductName": "TENADO PROTECT",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT19\\Products\\TENADOPROTECT19"
           }
         },
         {
           "VersionNR": 22,
-          "ProductData": {
-            "reg_name": "TENADOPROTECT22",
-            "product_name": "TENADO PROTECT",
-            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOPROTECT22ProductsTENADOPROTECT22"
+          "RegistryKeyData": {
+            "RegName": "TENADOPROTECT22",
+            "ProductName": "TENADO PROTECT",
+            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOPROTECT22ProductsTENADOPROTECT22"
           }
         }
       ]
     },
     {
       "ProductId": 10,
-      "Versions": [
+      "VersionsData": [
         {
           "VersionNR": 19,
-          "ProductData": {
-            "reg_name": "TENADOCAD19",
-            "product_name": "TENADO CAD",
-            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOCAD19\\Products\\TENADOCAD19"
+          "RegistryKeyData": {
+            "RegName": "TENADOCAD19",
+            "ProductName": "TENADO CAD",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOCAD19\\Products\\TENADOCAD19"
           }
         },
         {
           "VersionNR": 22,
-          "ProductData": {
-            "reg_name": "TENADOCAD22",
-            "product_name": "TENADO CAD",
-            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOCAD22ProductsTENADOCAD22"
+          "RegistryKeyData": {
+            "RegName": "TENADOCAD22",
+            "ProductName": "TENADO CAD",
+            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOCAD22ProductsTENADOCAD22"
           }
         }
       ]
     },
     {
       "ProductId": 11,
-      "Versions": [
+      "VersionsData": [
         {
           "VersionNR": 19,
-          "ProductData": {
-            "reg_name": "TENADOMETALL19",
-            "product_name": "TENADO METALL",
-            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL19\\Products\\TENADOMETALL19"
+          "RegistryKeyData": {
+            "RegName": "TENADOMETALL19",
+            "ProductName": "TENADO METALL",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL19\\Products\\TENADOMETALL19"
           }
         },
         {
           "VersionNR": 22,
-          "ProductData": {
-            "reg_name": "TENADOMETALL22",
-            "product_name": "TENADO METALL",
-            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOMETALL22ProductsTENADOMETALL22"
+          "RegistryKeyData": {
+            "RegName": "TENADOMETALL22",
+            "ProductName": "TENADO METALL",
+            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOMETALL22ProductsTENADOMETALL22"
           }
         }
       ]
     },
     {
       "ProductId": 13,
-      "Versions": [
+      "VersionsData": [
         {
           "VersionNR": 19,
-          "ProductData": {
-            "reg_name": "TENADOTRAFFIC19",
-            "product_name": "TENADO TRAFFIC",
-            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOTRAFFIC19\\Products\\TENADOTRAFFIC19"
+          "RegistryKeyData": {
+            "RegName": "TENADOTRAFFIC19",
+            "ProductName": "TENADO TRAFFIC",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOTRAFFIC19\\Products\\TENADOTRAFFIC19"
           }
         },
         {
           "VersionNR": 22,
-          "ProductData": {
-            "reg_name": "TENADOTRAFFIC22",
-            "product_name": "TENADO TRAFFIC",
-            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOTRAFFIC22ProductsTENADOTRAFFIC22"
+          "RegistryKeyData": {
+            "RegName": "TENADOTRAFFIC22",
+            "ProductName": "TENADO TRAFFIC",
+            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOTRAFFIC22ProductsTENADOTRAFFIC22"
           }
         }
       ]
     },
     {
       "ProductId": 14,
-      "Versions": [
+      "VersionsData": [
         {
           "VersionNR": 19,
-          "ProductData": {
-            "reg_name": "TENADOHOLZ19",
-            "product_name": "TENADO HOLZ",
-            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOHOLZ19\\Products\\TENADOHOLZ19"
+          "RegistryKeyData": {
+            "RegName": "TENADOHOLZ19",
+            "ProductName": "TENADO HOLZ",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOHOLZ19\\Products\\TENADOHOLZ19"
           }
         },
         {
           "VersionNR": 22,
-          "ProductData": {
-            "reg_name": "TENADOHOLZ22",
-            "product_name": "TENADO HOLZ",
-            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOHOLZ22ProductsTENADOHOLZ22"
+          "RegistryKeyData": {
+            "RegName": "TENADOHOLZ22",
+            "ProductName": "TENADO HOLZ",
+            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOHOLZ22ProductsTENADOHOLZ22"
           }
         }
       ]
     },
     {
       "ProductId": 16,
-      "Versions": [
+      "VersionsData": [
         {
           "VersionNR": 19,
-          "ProductData": {
-            "reg_name": "TENADOMETALL19_PL",
-            "product_name": "TENADO METAL",
-            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL19_PL\\Products\\TENADOMETALL19_PL"
+          "RegistryKeyData": {
+            "RegName": "TENADOMETALL19_PL",
+            "ProductName": "TENADO METAL",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL19_PL\\Products\\TENADOMETALL19_PL"
           }
         },
         {
           "VersionNR": 22,
-          "ProductData": {
-            "reg_name": "TENADOMETALL22_PL",
-            "product_name": "TENADO METAL",
-            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOMETALL22_PLProductsTENADOMETALL22_PL"
+          "RegistryKeyData": {
+            "RegName": "TENADOMETALL22_PL",
+            "ProductName": "TENADO METAL",
+            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOMETALL22_PLProductsTENADOMETALL22_PL"
           }
         }
       ]
     },
     {
       "ProductId": 18,
-      "Versions": [
+      "VersionsData": [
         {
           "VersionNR": 16,
-          "ProductData": {
-            "reg_name": "TENADO CAD 3D 16",
-            "product_name": "TENADO CAD 3D",
-            "full_path": "SOFTWARE\\Top Systems\\TENADO CAD 3D 16\\Ger"
+          "RegistryKeyData": {
+            "RegName": "TENADO CAD 3D 16",
+            "ProductName": "TENADO CAD 3D",
+            "FullPath": "SOFTWARE\\Top Systems\\TENADO CAD 3D 16\\Ger"
           }
         },
         {
           "VersionNR": 17,
-          "ProductData": {
-            "reg_name": "TENADO CAD 3D 17",
-            "product_name": "TENADO CAD 3D",
-            "full_path": "SOFTWARETop SystemsTENADO CAD 3D 17Ger"
+          "RegistryKeyData": {
+            "RegName": "TENADO CAD 3D 17",
+            "ProductName": "TENADO CAD 3D",
+            "FullPath": "SOFTWARETop SystemsTENADO CAD 3D 17Ger"
           }
         }
       ]
     },
     {
       "ProductId": 22,
-      "Versions": [
+      "VersionsData": [
         {
           "VersionNR": 19,
-          "ProductData": {
-            "reg_name": "TENADOSAFETY19",
-            "product_name": "TENADO SAFETY",
-            "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOSAFETY19\\Products\\TENADOSAFETY19"
+          "RegistryKeyData": {
+            "RegName": "TENADOSAFETY19",
+            "ProductName": "TENADO SAFETY",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOSAFETY19\\Products\\TENADOSAFETY19"
           }
         },
         {
           "VersionNR": 22,
-          "ProductData": {
-            "reg_name": "TENADOSAFETY22",
-            "product_name": "TENADO SAFETY",
-            "full_path": "SOFTWAREWOW6432NodeTENADOTENADOSAFETY22ProductsTENADOSAFETY22"
+          "RegistryKeyData": {
+            "RegName": "TENADOSAFETY22",
+            "ProductName": "TENADO SAFETY",
+            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOSAFETY22ProductsTENADOSAFETY22"
           }
         }
       ]
