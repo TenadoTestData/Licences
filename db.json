@@ -1,8 +1,8 @@
 {
-  "Products": [
+  "ProductRegistryData": [
     {
       "ProductId": 9,
-      "VersionsData": [
+      "VersionData": [
         {
           "VersionNR": 19,
           "RegistryKeyData": {
@@ -23,7 +23,7 @@
     },
     {
       "ProductId": 10,
-      "VersionsData": [
+      "VersionData": [
         {
           "VersionNR": 19,
           "RegistryKeyData": {
@@ -44,7 +44,7 @@
     },
     {
       "ProductId": 11,
-      "VersionsData": [
+      "VersionData": [
         {
           "VersionNR": 19,
           "RegistryKeyData": {
@@ -65,7 +65,7 @@
     },
     {
       "ProductId": 13,
-      "VersionsData": [
+      "VersionData": [
         {
           "VersionNR": 19,
           "RegistryKeyData": {
@@ -86,7 +86,7 @@
     },
     {
       "ProductId": 14,
-      "VersionsData": [
+      "VersionData": [
         {
           "VersionNR": 19,
           "RegistryKeyData": {
@@ -107,7 +107,7 @@
     },
     {
       "ProductId": 16,
-      "VersionsData": [
+      "VersionData": [
         {
           "VersionNR": 19,
           "RegistryKeyData": {
@@ -128,7 +128,7 @@
     },
     {
       "ProductId": 18,
-      "VersionsData": [
+      "VersionData": [
         {
           "VersionNR": 16,
           "RegistryKeyData": {
@@ -149,7 +149,7 @@
     },
     {
       "ProductId": 22,
-      "VersionsData": [
+      "VersionData": [
         {
           "VersionNR": 19,
           "RegistryKeyData": {
