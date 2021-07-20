@@ -18,7 +18,7 @@
           "RegistryKeyData": {
             "RegName": "TENADOPROTECT22",
             "ProductName": "TENADO PROTECT",
-            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOPROTECT22ProductsTENADOPROTECT22"
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT22\\Products\\TENADOPROTECT22"
           }
         }
       ]
@@ -39,7 +39,7 @@
           "RegistryKeyData": {
             "RegName": "TENADOCAD22",
             "ProductName": "TENADO CAD",
-            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOCAD22ProductsTENADOCAD22"
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOCAD22\\Products\\TENADOCAD22"
           }
         }
       ]
@@ -60,7 +60,7 @@
           "RegistryKeyData": {
             "RegName": "TENADOMETALL22",
             "ProductName": "TENADO METALL",
-            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOMETALL22ProductsTENADOMETALL22"
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL22\\Products\\TENADOMETALL22"
           }
         }
       ]
@@ -81,7 +81,7 @@
           "RegistryKeyData": {
             "RegName": "TENADOTRAFFIC22",
             "ProductName": "TENADO TRAFFIC",
-            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOTRAFFIC22ProductsTENADOTRAFFIC22"
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOTRAFFIC22\\Products\\TENADOTRAFFIC22"
           }
         }
       ]
@@ -102,7 +102,7 @@
           "RegistryKeyData": {
             "RegName": "TENADOHOLZ22",
             "ProductName": "TENADO HOLZ",
-            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOHOLZ22ProductsTENADOHOLZ22"
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOHOLZ22\\Products\\TENADOHOLZ22"
           }
         }
       ]
@@ -123,7 +123,7 @@
           "RegistryKeyData": {
             "RegName": "TENADOMETALL22_PL",
             "ProductName": "TENADO METAL",
-            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOMETALL22_PLProductsTENADOMETALL22_PL"
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL22_PL\\Products\\TENADOMETALL22_PL"
           }
         }
       ]
@@ -144,7 +144,7 @@
           "RegistryKeyData": {
             "RegName": "TENADO CAD 3D 17",
             "ProductName": "TENADO CAD 3D",
-            "FullPath": "SOFTWARETop SystemsTENADO CAD 3D 17Ger"
+            "FullPath": "SOFTWARE\\Top Systems\\TENADO CAD 3D 17\\Ger"
           }
         }
       ]
@@ -165,7 +165,7 @@
           "RegistryKeyData": {
             "RegName": "TENADOSAFETY22",
             "ProductName": "TENADO SAFETY",
-            "FullPath": "SOFTWAREWOW6432NodeTENADOTENADOSAFETY22ProductsTENADOSAFETY22"
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOSAFETY22\\Products\\TENADOSAFETY22"
           }
         }
       ]
