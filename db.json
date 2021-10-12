@@ -1,142 +1,174 @@
 {
-  "Licenses": [
+  "Products": 
+  {"ProductRegistryData":
+  [
     {
-      "license_id": 14021,
-      "LicenseKey": "Q7ALOFCTAAAABL2BNBOA",
-      "LicenseType": 1,
-      "ProService": true,
-      "DebugVersion": "22.9.9999",
-      "MaxVersion": "22.1.8181",
-      "Active": true,
-      "ProductName": "TENADO PROTECT",
       "ProductId": 9,
-      "ExpirationDate": 1861833600,
-      "ActivationDate": 1619714152,
-      "Reg_name": "TENADOPROTECT22",
-      "Product_name": "TENADOPROTECT",
-      "Full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT22\\Products\\TENADOPROTECT22",
-      "Link": "http...",
-      "Size": 123,
-      "Checksum": "abcd",
-      "UpdateType": 0,
-      "Description": "abc",
-      "Modules": [
+      "VersionData": [
         {
-          "module_name": "TENADO_HK_Pandemie_Symbolik",
-          "id": 557791,
-          "license_id": 1123,
-          "module_id": 112,
-          "priority": 9999,
-          "is_new": 0,
-          "max_version": "19",
-          "name": "TENADO_HK_Pandemie_Symbolik",
-          "speaking_name": "TENADO Pandemie-Symbolik",
-          "reg_name": "TENADO_HK_Pandemie_Symbolik",
-          "version": "19",
-          "active": 1,
-          "display_sc": 1,
-          "cat": 9,
-          "module_priority": 9999,
-          "important": 0,
-          "lang": "de",
-          "stand_alone": 0,
-          "file_type": 3,
-          "advanced": 0,
-          "x86": 0,
-          "installer_state": 0,
-          "category_name": "Bibliotheken",
-          "category_priority": 300,
-          "major": null,
-          "full_path": null,
-          "link": null,
-          "checksum": null,
-          "dependencies": [
-            {
-              "target_version": "19",
-              "min_version": "19.6.8240",
-              "max_version": "22.9.9999",
-              "opt": 0,
-              "product_id": -1
-            }
-          ]
+          "VersionNR": 19,
+          "RegistryKeyData": {
+            "RegName": "TENADOPROTECT19",
+            "ProductName": "TENADO PROTECT",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT19\\Products\\TENADOPROTECT19"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "RegistryKeyData": {
+            "RegName": "TENADOPROTECT22",
+            "ProductName": "TENADO PROTECT",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT22\\Products\\TENADOPROTECT22"
+          }
         }
       ]
     },
     {
-      "license_id": 14022,
-      "LicenseKey": "O2R4WESYAAAAAQQ74MHA",
-      "LicenseType": 1,
-      "ProService": false,
-      "DebugVersion": "22.9.9999",
-      "MaxVersion": "22.1.8121",
-      "Active": true,
-      "ProductName": "TENADO CAD 2D",
       "ProductId": 10,
-      "ExpirationDate": 1861833600,
-      "ActivationDate": 1619714071,
-      "Reg_name": "TENADOCAD22",
-      "Product_name": "TENADOCAD",
-      "Full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOCAD22\\Products\\TENADOCAD22",
-      "Link": "http...",
-      "Size": 123,
-      "Checksum": "abcd",
-      "UpdateType": 0,
-      "Description": "abc",
-      "Modules": [
+      "VersionData": [
         {
-          "module_name": "TENADO_HK_SUEDMETALL_2D",
-          "id": 259714,
-          "license_id": 1124,
-          "module_id": 87,
-          "priority": 9999,
-          "is_new": 0,
-          "max_version": "19.0.0002",
-          "name": "TENADO_HK_SUEDMETALL_2D",
-          "speaking_name": "TENADO_HK_SUEDMETALL_2D",
-          "reg_name": "TENADO_HK_SUEDMETALL_2D",
-          "version": "19.0.0002",
-          "active": 1,
-          "display_sc": 1,
-          "cat": 3,
-          "module_priority": 9999,
-          "important": 0,
-          "lang": "de",
-          "stand_alone": 0,
-          "file_type": 3,
-          "advanced": 0,
-          "x86": 0,
-          "installer_state": 0,
-          "category_name": "Herstellerkataloge",
-          "category_priority": 300,
-          "major": null,
-          "full_path": null,
-          "link": null,
-          "checksum": null,
-          "dependencies": [
-            {
-              "target_version": "19",
-              "min_version": "19.0.0000",
-              "max_version": "22.9.9999",
-              "opt": 0,
-              "product_id": 14
-            },
-            {
-              "target_version": "19.0.0001",
-              "min_version": "19.0.0000",
-              "max_version": "22.9.9999",
-              "opt": 0,
-              "product_id": 14
-            },
-            {
-              "target_version": "19.0.0002",
-              "min_version": "19.0.0000",
-              "max_version": "22.9.9999",
-              "opt": 0,
-              "product_id": 11
-            }
-          ]
+          "VersionNR": 19,
+          "RegistryKeyData": {
+            "RegName": "TENADOCAD19",
+            "ProductName": "TENADO CAD",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOCAD19\\Products\\TENADOCAD19"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "RegistryKeyData": {
+            "RegName": "TENADOCAD22",
+            "ProductName": "TENADO CAD",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOCAD22\\Products\\TENADOCAD22"
+          }
+        }
+      ]
+    },
+    {
+      "ProductId": 11,
+      "VersionData": [
+        {
+          "VersionNR": 19,
+          "RegistryKeyData": {
+            "RegName": "TENADOMETALL19",
+            "ProductName": "TENADO METALL",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL19\\Products\\TENADOMETALL19"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "RegistryKeyData": {
+            "RegName": "TENADOMETALL22",
+            "ProductName": "TENADO METALL",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL22\\Products\\TENADOMETALL22"
+          }
+        }
+      ]
+    },
+    {
+      "ProductId": 13,
+      "VersionData": [
+        {
+          "VersionNR": 19,
+          "RegistryKeyData": {
+            "RegName": "TENADOTRAFFIC19",
+            "ProductName": "TENADO TRAFFIC",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOTRAFFIC19\\Products\\TENADOTRAFFIC19"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "RegistryKeyData": {
+            "RegName": "TENADOTRAFFIC22",
+            "ProductName": "TENADO TRAFFIC",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOTRAFFIC22\\Products\\TENADOTRAFFIC22"
+          }
+        }
+      ]
+    },
+    {
+      "ProductId": 14,
+      "VersionData": [
+        {
+          "VersionNR": 19,
+          "RegistryKeyData": {
+            "RegName": "TENADOHOLZ19",
+            "ProductName": "TENADO HOLZ",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOHOLZ19\\Products\\TENADOHOLZ19"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "RegistryKeyData": {
+            "RegName": "TENADOHOLZ22",
+            "ProductName": "TENADO HOLZ",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOHOLZ22\\Products\\TENADOHOLZ22"
+          }
+        }
+      ]
+    },
+    {
+      "ProductId": 16,
+      "VersionData": [
+        {
+          "VersionNR": 19,
+          "RegistryKeyData": {
+            "RegName": "TENADOMETALL19_PL",
+            "ProductName": "TENADO METAL",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL19_PL\\Products\\TENADOMETALL19_PL"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "RegistryKeyData": {
+            "RegName": "TENADOMETALL22_PL",
+            "ProductName": "TENADO METAL",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL22_PL\\Products\\TENADOMETALL22_PL"
+          }
+        }
+      ]
+    },
+    {
+      "ProductId": 18,
+      "VersionData": [
+        {
+          "VersionNR": 16,
+          "RegistryKeyData": {
+            "RegName": "TENADO CAD 3D 16",
+            "ProductName": "TENADO CAD 3D",
+            "FullPath": "SOFTWARE\\Top Systems\\TENADO CAD 3D 16\\Ger"
+          }
+        },
+        {
+          "VersionNR": 17,
+          "RegistryKeyData": {
+            "RegName": "TENADO CAD 3D 17",
+            "ProductName": "TENADO CAD 3D",
+            "FullPath": "SOFTWARE\\Top Systems\\TENADO CAD 3D 17\\Ger"
+          }
+        }
+      ]
+    },
+    {
+      "ProductId": 22,
+      "VersionData": [
+        {
+          "VersionNR": 19,
+          "RegistryKeyData": {
+            "RegName": "TENADOSAFETY19",
+            "ProductName": "TENADO SAFETY",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOSAFETY19\\Products\\TENADOSAFETY19"
+          }
+        },
+        {
+          "VersionNR": 22,
+          "RegistryKeyData": {
+            "RegName": "TENADOSAFETY22",
+            "ProductName": "TENADO SAFETY",
+            "FullPath": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOSAFETY22\\Products\\TENADOSAFETY22"
+          }
         }
       ]
     }
-  ]
+  ]}
 }
